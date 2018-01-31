@@ -1,0 +1,170 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[7.00]TM[3600]OT[15/300 Canadian]
+PW[Schwald3]PB[steinfux23]DT[2017-03-09]PC[The KGS Go Server at http://www.gokgs.com/]C[Schwald3 [-\]: hi...
+Schwald3 [-\]: Jenny Schramm für Schwarzwald
+steinfux23 [-\]: Hi, hier ist Michael Eifinger für die Steinfüchse
+steinfux23 [-\]: Schöne Partie
+]RE[B+Resign]
+;B[pd]BL[3559.048]C[Schwald3 [-\]: sorry... mein kgs hat sich aufgehängt... hoffe es läuft jetzt...
+]
+;W[dp]WL[3518.001]C[steinfux23 [-\]: alles gut
+]
+;B[pq]BL[3547.67]
+;W[dd]WL[3499.107]
+;B[fq]BL[3544.114]C[Schwald3 [-\]: viel Spass..
+]
+;W[cn]WL[3492.218]
+;B[jp]BL[3540.05]
+;W[po]WL[3476.701]
+;B[qm]BL[3520.536]
+;W[qq]WL[3463.217]
+;B[qp]BL[3342.322]
+;W[pp]WL[3443.755]
+;B[qo]BL[3331.249]
+;W[qn]WL[3346.863]
+;B[rn]BL[3264.356]
+;W[oq]WL[3327.573]
+;B[pr]BL[3240.526]
+;W[pn]WL[3314.84]
+;B[rp]BL[3224.177]
+;W[or]WL[3308.329]
+;B[qr]BL[3221.904]
+;W[pm]WL[3154.625]
+;B[ql]BL[3219.8]
+;W[dr]WL[3109.368]
+;B[mq]BL[3203.395]
+;W[hq]WL[3102.031]
+;B[pl]BL[3173.955]
+;W[ol]WL[3089.785]
+;B[ok]BL[3148.785]
+;W[nl]WL[3027.721]
+;B[np]BL[3049.265]
+;W[op]WL[3013.791]
+;B[nn]BL[3047.993]
+;W[mn]WL[2971.476]
+;B[hp]BL[2939.26]
+;W[fr]WL[2900.035]
+;B[gq]BL[2498.752]
+;W[gr]WL[2858.86]
+;B[iq]BL[2475.405]
+;W[hr]WL[2845.009]
+;B[no]BL[2473.938]
+;W[nm]WL[2829.929]
+;B[eq]BL[2465.455]
+;W[dq]WL[2823.82]
+;B[mj]BL[2418.45]
+;W[ll]WL[2811.246]
+;B[kj]BL[2385.551]
+;W[jl]WL[2776.472]
+;B[km]BL[2370.702]
+;W[kl]WL[2757.311]
+;B[hn]BL[2297.748]
+;W[hl]WL[2716.556]
+;B[fn]BL[2130.192]
+;W[ij]WL[2712.594]
+;B[fc]BL[2113.107]
+;W[df]WL[2698.574]
+;B[db]BL[2109.763]
+;W[cc]WL[2691.967]
+;B[ic]BL[2107.274]
+;W[cj]WL[2689.012]
+;B[qe]BL[2101.387]
+;W[nc]WL[2682.677]
+;B[lc]BL[2096.057]
+;W[pc]WL[2677.597]
+;B[qc]BL[2093.704]
+;W[od]WL[2674.219]
+;B[oe]BL[2084.072]
+;W[ne]WL[2671.692]
+;B[of]BL[2081.541]
+;W[pb]WL[2667.339]
+;B[md]BL[2075.206]
+;W[qb]WL[2661.588]
+;B[nd]BL[2054.023]
+;W[oc]WL[2657.985]
+;B[rc]BL[2051.128]
+;W[lb]WL[2648.621]
+;B[kb]BL[2042.994]
+;W[mc]WL[2561.629]
+;B[kd]BL[2024.972]
+;W[rb]WL[2530.108]
+;B[ii]BL[2008.944]
+;W[hi]WL[2502.652]
+;B[ji]BL[1999.778]
+;W[em]WL[2479.976]
+;B[gl]BL[1988.036]
+;W[hj]WL[2318.35]
+;B[di]BL[1857.686]
+;W[ek]WL[2304.837]
+;B[fl]BL[1835.611]
+;W[el]WL[2232.925]
+;B[hh]BL[1661.689]
+;W[gh]WL[2213.712]
+;B[gg]BL[1659.845]
+;W[hg]WL[2161.99]
+;B[ih]BL[1656.244]
+;W[fh]WL[2152.261]
+;B[gf]BL[1630.702]
+;W[fj]WL[2017.155]
+;B[ir]BL[1606.895]
+;W[ls]WL[2008.615]
+;B[lr]BL[1601.645]
+;W[ms]WL[2006.704]
+;B[cb]BL[1565.962]
+;W[bb]WL[2002.021]
+;B[dc]BL[1561.5]
+;W[cd]WL[1999.349]
+;B[la]BL[1529.162]
+;W[mb]WL[1927.687]
+;B[sb]BL[1524.239]
+;W[oa]WL[1911.237]
+;B[ed]BL[1501.192]
+;W[in]WL[1890.168]
+;B[io]BL[1493.525]
+;W[jn]WL[1888.013]
+;B[jo]BL[1484.193]
+;W[nk]WL[1847.469]
+;B[nj]BL[1479.769]
+;W[hm]WL[1795.999]
+;B[gn]BL[1463.288]
+;W[kn]WL[1750.543]C[Schwald4 [-\]: hey denis, holger. wie sind eure partien ausgegangen?
+Schwald4 [-\]: jennyjenny
+steinfux24 [-\]: ihr führt 2:1
+goodminton [-\]: na ja ^^
+Schwald4 [-\]: jenny vor noch ein stein
+goodminton [-\]: mit dem mut für einen drastischen ansatz ginge sehr eventuell noch was , aber wie ich jenny kenne
+Hellhuman [?\]: Holger und ich haben gewonnen
+]
+;B[ns]BL[1326.775]
+;W[nr]WL[1733.124]
+;B[ks]BL[1319.104]
+;W[os]WL[1726.871]C[goodminton [-\]: autsch
+goodminton [-\]: wenigstens n2
+]
+;B[kr]BL[1304.79]
+;W[mr]WL[1715.13]C[goodminton [-\]: aua
+Hellhuman [?\]: Wieviele Spiele hat diese Saison noch?
+]
+;B[ba]BL[1272.545]C[Schwald4 [-\]: noch ein stein ist gut. aber an der richtigen stelle.
+]
+;W[bc]WL[1706.869]C[Schwald4 [-\]: ich glaube zwei
+]
+;B[ef]BL[1167.922]
+;W[eg]WL[1689.311]C[Schwald4 [-\]: sieht wohl wieder nach unentschieden aus
+goodminton [-\]: sie müsste es wenigstens probieren - aber jetz geht eigentlich gar nix mehr
+]
+;B[ee]BL[1123.661]C[Schwald4 [-\]: eine gruppe in r12 setzen
+]
+;W[de]WL[1660.1]C[steinfux24 [-\]: "honte"
+]
+;B[ep]BL[1120.184]C[Schwald4 [-\]: oder k4 töten
+goodminton [-\]: ^^
+goodminton [-\]: wenigstens zwei von den 4 augen plätten ^^
+Schwald3 [-\]: danke fürs Spiel..
+steinfux23 [-\]: danke.
+goodminton [-\]: danke an die flussmonster-flachländer
+goodminton [-\]: denis, clemens euch einen schönen abend
+Hellhuman [?\]: Dir auch
+Schwald4 [-\]: dito bis zum nächsten bäddl
+Hellhuman [?\]: :D
+])

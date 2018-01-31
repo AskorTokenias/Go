@@ -1,0 +1,375 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[7.00]TM[3600]OT[15/300 Canadian]
+PW[steinfux23]PB[WiGoStar3]DT[2016-09-22]PC[The KGS Go Server at http://www.gokgs.com/]RE[W+36.00]
+;B[qd]BL[3595.816]C[WiGoStar3 [-\]: Hallo 
+steinfux23 [-\]: hallo, grüße nach wiesbaden
+WiGoStar3 [-\]: hier ist Frank Weidmann vom Grauen Star Wiesbaden.
+WiGoStar3 [-\]: schönes Spiel!
+steinfux23 [-\]: hier ist der michael eifinger für die füchse
+]
+;W[dp]WL[3565.541]
+;B[qo]BL[3564.292]
+;W[dc]WL[3543.609]
+;B[gd]BL[3404.604]
+;W[jd]WL[3518.596]
+;B[ee]BL[3279.956]
+;W[ce]WL[3500.974]
+;B[md]BL[3222.619]
+;W[df]WL[3452.195]
+;B[fg]BL[3205.655]
+;W[od]WL[3366.447]
+;B[qf]BL[3102.864]
+;W[of]WL[3336.876]
+;B[kd]BL[2971.631]
+;W[jc]WL[3312.278]
+;B[lg]BL[2934.574]
+;W[gb]WL[3210.831]
+;B[fb]BL[2835.058]
+;W[gc]WL[3168.257]
+;B[fc]BL[2781.97]
+;W[hd]WL[3156.57]
+;B[he]BL[2773.265]
+;W[fd]WL[3117.817]
+;B[ge]BL[2756.707]
+;W[ed]WL[3115.236]
+;B[hc]BL[2743.847]
+;W[hb]WL[3112.147]
+;B[id]BL[2730.775]
+;W[ic]WL[3077.647]
+;B[je]BL[2712.091]
+;W[qc]WL[3034.539]
+;B[rc]BL[2667.88]
+;W[pc]WL[3031.366]
+;B[rb]BL[2652.021]
+;W[lb]WL[3028.048]
+;B[mb]BL[2625.257]
+;W[lc]WL[2868.659]
+;B[mc]BL[2471.063]
+;W[mf]WL[2841.157]
+;B[ne]BL[2414.141]
+;W[oe]WL[2816.734]
+;B[nf]BL[2395.533]
+;W[pg]WL[2699.021]
+;B[qh]BL[2364.751]
+;W[qg]WL[2694.243]
+;B[rg]BL[2361.32]
+;W[rh]WL[2692.606]
+;B[rf]BL[2286.462]
+;W[ng]WL[2689.32]
+;B[mg]BL[2270.082]
+;W[qi]WL[2686.914]
+;B[nh]BL[2260.809]
+;W[ph]WL[2483.733]
+;B[cq]BL[2238.42]
+;W[dq]WL[2461.922]
+;B[cp]BL[2229.67]
+;W[co]WL[2460.35]
+;B[bo]BL[2223.289]
+;W[cn]WL[2459.194]
+;B[bn]BL[2217.349]
+;W[cm]WL[2457.85]
+;B[dr]BL[2209.533]
+;W[er]WL[2456.564]
+;B[cr]BL[2208.523]
+;W[fq]WL[2455.096]
+;B[pq]BL[2176.006]
+;W[nq]WL[2442.893]
+;B[lq]BL[2149.138]
+;W[oq]WL[2427.343]
+;B[pr]BL[2130.32]
+;W[oo]WL[2423.155]
+;B[iq]BL[2111.956]
+;W[qm]WL[2417.181]
+;B[pn]BL[2098.003]
+;W[mo]WL[2360.118]
+;B[ko]BL[2085.45]
+;W[nm]WL[2317.153]
+;B[pm]BL[2065.687]
+;W[eh]WL[2299.701]
+;B[ek]BL[2043.947]
+;W[bm]WL[2291.713]
+;B[ck]BL[2034.943]
+;W[gk]WL[2288.127]
+;B[ch]BL[1999.456]
+;W[cg]WL[2273.834]
+;B[fj]BL[1969.069]
+;W[fh]WL[2265.878]
+;B[gg]BL[1845.427]
+;W[gh]WL[2262.822]
+;B[gj]BL[1840.37]
+;W[ih]WL[2252.022]
+;B[hi]BL[1783.435]
+;W[hh]WL[2231.89]
+;B[jj]BL[1779.207]
+;W[if]WL[2225.119]
+;B[ie]BL[1773.386]
+;W[kn]WL[2140.38]
+;B[og]BL[1740.671]
+;W[pf]WL[2122.528]
+;B[lo]BL[1730.443]
+;W[ln]WL[2113.945]
+;B[mp]BL[1708.807]
+;W[no]WL[2100.574]
+;B[jn]BL[1703.205]
+;W[jm]WL[2047.598]
+;B[in]BL[1680.525]
+;W[hq]WL[2034.885]
+;B[bh]BL[1671.407]
+;W[dh]WL[2025.332]
+;B[hp]BL[1648.416]
+;W[hr]WL[2007.613]
+;B[fe]BL[1631.8]
+;W[de]WL[1973.646]
+;B[ir]BL[1611.744]
+;W[gp]WL[1970.737]
+;B[ll]BL[1595.229]
+;W[kl]WL[1959.573]
+;B[mm]BL[1480.516]
+;W[mn]WL[1708.898]
+;B[nl]BL[1458.261]
+;W[lk]WL[1659.731]
+;B[ml]BL[1337.999]
+;W[jk]WL[1595.7]
+;B[kj]BL[1292.792]
+;W[im]WL[1586.967]
+;B[hm]BL[1260.1]
+;W[hl]WL[1566.412]
+;B[ik]BL[1215.712]
+;W[gm]WL[1545.681]
+;B[hn]BL[1189.42]
+;W[hk]WL[1508.571]
+;B[ij]BL[1129.876]
+;W[il]WL[1504.178]
+;B[fo]BL[1092.396]
+;W[ho]WL[1276.778]
+;B[gn]BL[1036.323]
+;W[ip]WL[1273.873]
+;B[jp]BL[1016.091]
+;W[fm]WL[1260.858]
+;B[eo]BL[979.163]
+;W[do]WL[1245.578]
+;B[em]BL[950.18]
+;W[el]WL[1238.657]
+;B[fl]BL[925.749]C[WiGoStar4 [-\]: coole kiste hier....
+WiGoStar2 [-\]: ja - aber d8 ist einfacher für s
+]
+;W[dl]WL[956.289]
+;B[fk]BL[837.838]
+;W[gl]WL[934.368]
+;B[fn]BL[817.896]
+;W[kk]WL[926.779]
+;B[nj]BL[759.029]C[WiGoStar2 [-\]: das problem ist h10
+WiGoStar2 [-\]: unklar, ob links länger lebt als w
+]
+;W[lj]WL[563.792]
+;B[ki]BL[717.913]
+;W[np]WL[535.016]C[WiGoStar4 [-\]: eieiei
+WiGoStar2 [-\]: n2
+]
+;B[pp]BL[653.723]
+;W[lr]WL[528.688]
+;B[mr]BL[624.402]
+;W[mq]WL[525.975]C[WiGoStar4 [-\]: gut
+]
+;B[kr]BL[620.626]
+;W[lp]WL[509.607]
+;B[kq]BL[614.368]C[WiGoStar2 [-\]: ja - sehr gut von frank
+WiGoStar2 [-\]: jetzt lebt er und hat die augen zerstört
+WiGoStar4 [-\]: Captain *clapclapclap*
+]
+;W[li]WL[459.941]
+;B[kh]BL[583.243]C[WiGoStar2 [-\]: #h10 ist immer noch unklar
+WiGoStar4 [-\]: h10 h11 d10?
+WiGoStar4 [-\]: quatsch
+WiGoStar2 [-\]: w h10 schneidet
+WiGoStar2 [-\]: und s lebt noch nicht links
+WiGoStar4 [-\]: mein' ich ja
+WiGoStar2 [-\]: s antwortet auf h10 auf d9
+]
+;W[or]WL[143.836]
+;B[ls]BL[551.372]C[WiGoStar2 [-\]: nun h10 
+WiGoStar2 [-\]: m1 war nicht nötig
+]
+;W[hj]WL[119.453]
+;B[gi]BL[534.753]
+;W[ii]WL[117.41]C[WiGoStar2 [-\]: wenns verloren geht ist m1 der verlustzug
+]
+;B[cl]BL[523.022]
+;W[en]WL[95.214]
+;B[dk]BL[496.322]C[WiGoStar2 [-\]: nein
+]
+;W[dm]WL[90.145]C[WiGoStar2 [-\]: captain
+WiGoStar2 [-\]: b8
+WiGoStar3 [-\]: hopsala...
+]
+;B[bl]BL[406.344]
+;W[an]WL[80.266]
+;B[bp]BL[395.477]
+;W[bg]WL[67.644]
+;B[bj]BL[389.85]
+;W[qk]WL[58.437]
+;B[rn]BL[307.238]
+;W[rm]WL[42.91]
+;B[pk]BL[295.386]
+;W[kf]WL[36.292]
+;B[jf]BL[236.276]
+;W[ld]WL[288.454]OW[14]
+;B[le]BL[224.218]
+;W[ke]WL[267.729]OW[13]
+;B[kg]BL[207.65]
+;W[kc]WL[256.173]OW[12]
+;B[lf]BL[200.989]
+;W[kd]WL[219.153]OW[11]
+;B[ig]BL[192.394]
+;W[oi]WL[216.016]OW[10]
+;B[sm]BL[146.827]
+;W[sl]WL[169.316]OW[9]
+;B[sn]BL[135.71]
+;W[ql]WL[121.404]OW[8]
+;B[pj]BL[119.905]
+;W[qn]WL[112.712]OW[7]
+;B[rp]BL[96.756]
+;W[qj]WL[51.485]OW[6]
+;B[pi]BL[80.031]
+;W[oh]WL[48.303]OW[5]
+;B[ni]BL[77.956]
+;W[ah]WL[45.028]OW[4]
+;B[ai]BL[69.431]
+;W[ag]WL[43.356]OW[3]
+;B[ci]BL[64.757]
+;W[oj]WL[40.508]OW[2]
+;B[ok]BL[61.005]
+;W[pl]WL[38.611]OW[1]
+;B[ol]BL[37.389]
+;W[ng]WL[300]OW[15]
+;B[ob]BL[5.892]
+;W[mh]WL[286.049]OW[14]
+;B[og]BL[283.332]OB[14]
+;W[po]WL[280.762]OW[13]
+;B[om]BL[269.828]OB[13]
+;W[ng]WL[275.06]OW[12]C[WiGoStar2 [-\]: schade frank
+]
+;B[ep]BL[227.674]OB[12]C[WiGoStar2 [-\]: m1 noch mal anschauen^^
+]
+;W[eq]WL[269.385]OW[11]
+;B[og]BL[220.66]OB[11]
+;W[sp]WL[267.985]OW[10]
+;B[ro]BL[209.964]OB[10]
+;W[ng]WL[265.537]OW[9]
+;B[ec]BL[193.043]OB[9]
+;W[dd]WL[255.087]OW[8]
+;B[og]BL[188.308]OB[8]
+;W[qe]WL[243.885]OW[7]
+;B[re]BL[182.23]OB[7]
+;W[ng]WL[241.33]OW[6]
+;B[mi]BL[171.631]OB[6]
+;W[lh]WL[223.689]OW[5]
+;B[og]BL[166.543]OB[5]
+;W[pd]WL[214.471]OW[4]
+;B[pe]BL[154.648]OB[4]
+;W[ng]WL[210.803]OW[3]
+;B[eg]BL[140.61]OB[3]
+;W[og]WL[183.789]OW[2]
+;B[dg]BL[130.536]OB[2]
+;W[qe]WL[180.811]OW[1]C[WiGoStar2 [-\]: das war aber etwas nmachgiebig von w
+]
+;B[rd]BL[108.61]OB[1]
+;W[qb]WL[300]OW[15]
+;B[ra]BL[300]OB[15]
+;W[ps]WL[286.716]OW[14]
+;B[qr]BL[260.717]OB[14]
+;W[rq]WL[235.471]OW[13]
+;B[rr]BL[232.156]OB[13]
+;W[la]WL[152.182]OW[12]
+;B[hs]BL[178.992]OB[12]
+;W[gs]WL[147.596]OW[11]
+;B[is]BL[177.226]OB[11]
+;W[ds]WL[131.545]OW[10]
+;B[cs]BL[175.444]OB[10]
+;W[es]WL[130.261]OW[9]
+;B[al]BL[164.055]OB[9]
+;W[am]WL[126.961]OW[8]
+;B[oc]BL[146.995]OB[8]
+;W[nd]WL[118.068]OW[7]
+;B[me]BL[140.942]OB[7]
+;W[qa]WL[116.512]OW[6]
+;B[sh]BL[113.851]OB[6]
+;W[si]WL[112.978]OW[5]
+;B[sg]BL[112.68]OB[5]
+;W[nc]WL[52.461]OW[4]
+;B[nb]BL[107.183]OB[4]
+;W[ef]WL[43.957]OW[3]
+;B[qs]BL[88.75]OB[3]
+;W[os]WL[40.581]OW[2]
+;B[ma]BL[77.23]OB[2]
+;W[hd]WL[37.108]OW[1]
+;B[be]BL[60.759]OB[1]
+;W[bd]WL[300]OW[15]
+;B[hc]BL[300]OB[15]
+;W[ff]WL[293.8]OW[14]
+;B[gf]BL[298.265]OB[14]
+;W[pe]WL[278.391]OW[13]
+;B[pb]BL[284.922]OB[13]C[WiGoStar2 [-\]: t10
+]
+;W[rk]WL[236.647]OW[12]
+;B[pa]BL[276.834]OB[12]
+;W[qh]WL[233.877]OW[11]
+;B[go]BL[263.092]OB[11]
+;W[hp]WL[222.418]OW[10]
+;B[kp]BL[254.103]OB[10]
+;W[fp]WL[211.799]OW[9]
+;B[jo]BL[252.713]OB[9]
+;W[ns]WL[206.387]OW[8]
+;B[ms]BL[247.434]OB[8]C[WiGoStar2 [-\]: t10 statt q18
+]
+;W[mp]WL[199.2]OW[7]C[Thazz [?\]: b2 for w
+WiGoStar2 [-\]: wärs doch gewesen oder?#
+]
+;B[hd]BL[225.853]OB[7]
+;W[ao]WL[192.403]OW[6]
+;B[ar]BL[216.161]OB[6]
+;W[ap]WL[187.814]OW[5]
+;B[aq]BL[210.636]OB[5]C[Thazz [?\]: b2 hätte getötet
+WiGoStar2 [-\]: ja klar
+]
+;W[sr]WL[170.966]OW[4]C[WiGoStar2 [-\]: aber t10 wohl auch oder?
+WiGoStar2 [-\]: nee - wäre nur ko
+Thazz [?\]: jo
+Thazz [?\]: aber immerhin
+Thazz [?\]: ^^
+WiGoStar2 [-\]: erstaunlich was da alles so ging
+]
+;B[ss]BL[129.086]OB[4]C[WiGoStar2 [-\]: unten links ist auch witzif
+WiGoStar2 [-\]: witzig
+Thazz [?\]: in all den Jahren noch nie so gesehen glaube ich
+]
+;W[eb]WL[134.42]OW[3]
+;B[sq]BL[122.512]OB[3]
+;W[]WL[134.417]OW[2]
+;B[]BL[94.592]OB[2]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ja][ka][ab][bb][cb][db][fb][ib][jb][kb][ac][bc][cc][ec][fc][ad][cd][ae][be][af][bf][cf][nh][mi][ni][pi][ri][mj][nj][pj][rj][sj][mk][nk][ok][pk][sk][jl][ll][ml][nl][ol][rl][em][km][lm][mm][om][pm][dn][nn][on][pn][gq][fr][gr][fs]TB[na][oa][sa][sb][sc][sd][se][hf][if][mf][sf][hg][jg][dh][eh][fh][gh][hh][ih][jh][bi][di][ei][fi][ii][ji][aj][cj][dj][ej][ak][bk][so][qp][sp][bq][jq][qq][rq][br][jr][lr][sr][as][bs][js][ks][rs]C[WiGoStar3 [-\]: Danke
+Thazz [?\]: Glückwunsch!
+WiGoStar2 [-\]: boahhh
+steinfux23 [-\]: danke
+WiGoStar2 [-\]: frank - du warst so nah dran
+WiGoStar3 [-\]: wie immer
+WiGoStar2 [-\]: m1 hats vergeigt
+WiGoStar4 [-\]: gut gemact, Captain
+WiGoStar2 [-\]: aber sopnst wars gut
+WiGoStar2 [-\]: und ganz am schluss t10 statt q18
+WiGoStar3 [-\]: m1???
+WiGoStar2 [-\]: da hatte w gepennt
+WiGoStar2 [-\]: ja den brauchst du nicht
+WiGoStar2 [-\]: strattdessen in der mitte verbinden
+WiGoStar3 [-\]: t10  hab ich zu spät gesehen.
+WiGoStar2 [-\]: hast fast die mitte gekillt
+WiGoStar2 [-\]: aber insgesamt ists 6:2 ausgegangen
+WiGoStar3 [-\]: knapp daneben ist halt auch vorbei.
+WiGoStar3 [-\]: wer außer mir hat noch verloren
+WiGoStar2 [-\]: keiner
+WiGoStar2 [-\]: nur mainzer
+WiGoStar3 [-\]: wow!
+WiGoStar3 [-\]: glückwunsch Andreas
+WiGoStar2 [-\]: bei andreas wars großwildjagd
+WiGoStar3 [-\]: gute Nacht.
+WiGoStar2 [-\]: nacht^^
+])
