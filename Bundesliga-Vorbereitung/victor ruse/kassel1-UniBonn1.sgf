@@ -1,0 +1,339 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[7.00]TM[3600]OT[15/300 Canadian]
+PW[kassel1]PB[UniBonn1]DT[2017-10-12]PC[The KGS Go Server at http://www.gokgs.com/]C[UniBonn1 [-\]: hallo, hier christopher kacwin fuer Uni bonn, viel Spass
+]RE[W+Resign]
+;B[pd]BL[3569.477]C[kassel1 [-\]: Moin
+kassel1 [-\]: Victor Ruse für die Himmelsstürmer Kassel
+kassel1 [-\]: Viel Spaß
+]
+;W[dd]WL[3555.758]
+;B[pp]BL[3560.545]
+;W[dq]WL[3505.645]
+;B[do]BL[3551.667]
+;W[qf]WL[3238.196]
+;B[nc]BL[3535.479]
+;W[qn]WL[3207.762]
+;B[nq]BL[3524.569]
+;W[pj]WL[3204.062]
+;B[fp]BL[3467.453]
+;W[fq]WL[3156.842]
+;B[gq]BL[3419.132]
+;W[gp]WL[3136.915]
+;B[fo]BL[3408.981]
+;W[hq]WL[2843.362]
+;B[gr]BL[3388.007]
+;W[fr]WL[2840.828]
+;B[hr]BL[3382.735]
+;W[iq]WL[2837.635]
+;B[ir]BL[3366.903]
+;W[jq]WL[2813.928]
+;B[jr]BL[3327.268]
+;W[kq]WL[2811.615]
+;B[kr]BL[3311.126]
+;W[lq]WL[2787.209]
+;B[lr]BL[3309.37]
+;W[cp]WL[2105.801]
+;B[co]BL[3281.87]
+;W[ho]WL[2094.595]
+;B[cf]BL[3252.093]
+;W[ch]WL[2081.649]
+;B[ef]BL[3188.015]
+;W[fc]WL[2064.255]
+;B[ck]BL[3081.219]
+;W[ce]WL[2048.159]
+;B[bf]BL[3060.788]
+;W[eh]WL[2043.545]
+;B[de]BL[3007.621]
+;W[cd]WL[2025.815]
+;B[gf]BL[2951.346]
+;W[fe]WL[2009.504]
+;B[ff]BL[2936.79]
+;W[ek]WL[1976.364]
+;B[hd]BL[2821.705]
+;W[cl]WL[1957.711]
+;B[dl]BL[2787.725]
+;W[dk]WL[1952.995]
+;B[cj]BL[2782.881]
+;W[dm]WL[1942.034]
+;B[el]BL[2753.59]
+;W[bm]WL[1863.687]
+;B[em]BL[2668.359]
+;W[ci]WL[1827.932]
+;B[bp]BL[1541.58]
+;W[bq]WL[1825.009]
+;B[bo]BL[1291.361]
+;W[dj]WL[1597.546]
+;B[cr]BL[1236.633]
+;W[cq]WL[1545.947]
+;B[br]BL[1223.098]
+;W[ar]WL[1537.008]
+;B[dr]BL[1148.538]
+;W[eq]WL[1194.524]
+;B[hm]BL[1086.971]
+;W[of]WL[1068.122]
+;B[ol]BL[1064.728]
+;W[on]WL[1051.391]
+;B[ql]BL[1060.775]
+;W[qk]WL[1036.018]
+;B[qm]BL[1049.345]
+;W[qp]WL[1027.62]
+;B[qq]BL[1046.147]
+;W[op]WL[808.342]
+;B[oq]BL[1015.556]
+;W[po]WL[806.353]
+;B[pq]BL[1013.11]
+;W[nm]WL[768.946]
+;B[nl]BL[974.905]
+;W[lm]WL[750.82]
+;B[ni]BL[938.182]
+;W[pi]WL[680.851]
+;B[lk]BL[927.099]
+;W[mq]WL[635.946]
+;B[mr]BL[922.116]
+;W[kk]WL[627.884]
+;B[ll]BL[905.367]
+;W[kl]WL[624.91]
+;B[km]BL[903.569]
+;W[jm]WL[587.527]
+;B[mm]BL[772.123]
+;W[kn]WL[584.324]
+;B[ln]BL[770.9]
+;W[mn]WL[496.217]
+;B[km]BL[768.027]
+;W[lo]WL[493.679]
+;B[lm]BL[765.987]
+;W[jn]WL[446.087]
+;B[mo]BL[730.509]
+;W[mp]WL[433.892]
+;B[nn]BL[723.7]
+;W[np]WL[411.505]
+;B[jl]BL[663.982]
+;W[kj]WL[270.135]
+;B[il]BL[644.13]
+;W[om]WL[258.391]
+;B[hi]BL[564.957]
+;W[li]WL[209.321]
+;B[mi]BL[534.956]
+;W[lg]WL[178.051]
+;B[mg]BL[378.853]
+;W[mf]WL[165.026]
+;B[ng]BL[374.022]
+;W[le]WL[157.215]
+;B[nf]BL[368.677]
+;W[ne]WL[154.716]
+;B[oe]BL[367.303]
+;W[nd]WL[105.464]
+;B[oc]BL[316.886]
+;W[og]WL[90.963]
+;B[kf]BL[297.307]
+;W[lf]WL[88.055]
+;B[lj]BL[215.215]
+;W[ki]WL[61.997]
+;B[kg]BL[212.907]
+;W[lh]WL[54.113]
+;B[oj]BL[109.668]C[UniBonn2 [-\]: how strong is w?
+]
+;W[pl]WL[209.746]OW[14]
+;B[nk]BL[41.711]C[UniBonn2 [-\]: w p11 quite annoying now
+KasselGZ3 [-\]: 2d+
+]
+;W[mc]WL[117.022]OW[13]
+;B[od]BL[286.96]OB[14]C[UniBonn2 [-\]: maybe o9 at n9 was better?
+]
+;W[mb]WL[87.76]OW[12]
+;B[qe]BL[255.55]OB[13]
+;W[rf]WL[85.326]OW[11]
+;B[re]BL[251.978]OB[12]
+;W[jd]WL[76.031]OW[10]
+;B[pk]BL[203.337]OB[11]
+;W[ok]WL[67.618]OW[9]
+;B[md]BL[196.748]OB[10]
+;W[me]WL[56.46]OW[8]
+;B[pk]BL[194.604]OB[9]
+;W[pm]WL[52.572]OW[7]C[UniBonn2 [-\]: that ko is quite desperate for b
+]
+;B[qj]BL[192.495]OB[8]
+;W[ok]WL[51.334]OW[6]
+;B[ph]BL[133.066]OB[7]
+;W[pk]WL[24.892]OW[5]
+;B[qh]BL[64]OB[6]
+;W[oh]WL[19.767]OW[4]
+;B[oi]BL[60.323]OB[5]C[kassel3 [?\]: sieht nach nem verdammt starken Spiel von Victor aus °_^
+]
+;W[rh]WL[16.115]OW[3]
+;B[pf]BL[41.294]OB[4]
+;W[qi]WL[14.509]OW[2]
+;B[pg]BL[36.545]OB[3]
+;W[if]WL[12.059]OW[1]
+;B[hf]BL[28.727]OB[2]
+;W[ig]WL[300]OW[15]
+;B[jc]BL[17.767]OB[1]
+;W[kc]WL[293.182]OW[14]
+;B[gc]BL[300]OB[15]
+;W[fb]WL[291.165]OW[13]C[UniBonn2 [-\]: w should have played p11 right awaz
+UniBonn2 [-\]: away*
+]
+;B[je]BL[283.26]OB[14]
+;W[ie]WL[276.502]OW[12]
+;B[id]BL[281.729]OB[13]
+;W[kd]WL[271.976]OW[11]
+;B[jh]BL[269.793]OB[12]C[kassel4 [-\]: nach b p2 kann weiß doch einfach n12
+]
+;W[ih]WL[261.899]OW[10]
+;B[ji]BL[268.029]OB[11]C[kassel3 [?\]: how could that have worked against b answer at p12?
+]
+;W[ii]WL[260.121]OW[9]
+;B[jj]BL[266.198]OB[10]
+;W[gh]WL[256.106]OW[8]C[kassel4 [-\]: p11..
+UniBonn2 [-\]: ich meine w p11 statt w n17 
+kassel3 [?\]: ah
+kassel3 [?\]: okay
+]
+;B[jb]BL[213.742]OB[9]
+;W[gd]WL[248.688]OW[7]
+;B[he]BL[205.958]OB[8]
+;W[kb]WL[203.783]OW[6]C[kassel3 [?\]: l18 sehr passiv
+UniBonn2 [-\]: l18 ist notwendig denke ich
+kassel3 [?\]: ich hätte lieber h9 vorher gespiel
+UniBonn2 [-\]: h9 j10 ist guter abtausch für b
+kassel3 [?\]: ja das stimmt wohl
+]
+;B[hh]BL[90.269]OB[7]C[kassel3 [?\]: wobei als yosezug recht groß
+]
+;W[hg]WL[192.944]OW[5]
+;B[gg]BL[81.868]OB[6]C[UniBonn2 [-\]: aber dann geht der schnitt bei h12 
+UniBonn2 [-\]: der, den b jetzt spielt
+]
+;W[hj]WL[166.021]OW[4]
+;B[gi]BL[78.39]OB[5]C[UniBonn2 [-\]: w h13 vielleicht besser j10 
+kassel3 [?\]: jetzt wJ10
+]
+;W[gj]WL[69.17]OW[3]C[UniBonn2 [-\]: g10 ja
+]
+;B[fh]BL[70.741]OB[4]
+;W[fi]WL[67.681]OW[2]
+;B[gh]BL[69.213]OB[3]
+;W[ij]WL[65.965]OW[1]C[kassel3 [?\]: hm
+UniBonn2 [-\]: und dann w e13 tötet
+]
+;B[fj]BL[39.234]OB[2]
+;W[jk]WL[300]OW[15]C[UniBonn2 [-\]: k9 !
+UniBonn2 [-\]: aus und vorbei
+]
+;B[ei]BL[32.044]OB[1]
+;W[fk]WL[295.399]OW[14]
+;B[cm]BL[300]OB[15]C[kassel3 [?\]: jo
+]
+;W[cn]WL[291.725]OW[13]
+;B[dn]BL[296.768]OB[14]
+;W[cm]WL[281.075]OW[12]
+;B[go]BL[292.506]OB[13]
+;W[hp]WL[278.352]OW[11]
+;B[gl]BL[275.839]OB[12]C[kassel3 [?\]: s kriegt nen Auge auf a5 denke ich
+UniBonn2 [-\]: g8 gote
+]
+;W[eg]WL[213.876]OW[10]C[UniBonn2 [-\]: w no mercy
+]
+;B[dh]BL[201.574]OB[11]
+;W[dg]WL[199.013]OW[9]C[UniBonn2 [-\]: was war das ergebnis auf anderen brettern?
+]
+;B[di]BL[197.859]OB[10]C[kyrka [6k\]: 3 und 4 hat bonn verloren, glaub ich
+]
+;W[cg]WL[181.663]OW[8]C[UniBonn4 [-\]: ja
+UniBonn2 [-\]: oh nein
+kassel3 [?\]: 3 auf jeden Fall ^^
+kassel3 [?\]: Das haben wir am Montag gespielt
+UniBonn4 [-\]: hat schwar da noch was?
+UniBonn2 [-\]: ne
+]
+;B[ed]BL[94.989]OB[9]
+;W[ec]WL[169.913]OW[7]
+;B[ee]BL[87.282]OB[8]
+;W[fd]WL[163.694]OW[6]C[kassel3 [?\]: b11 sieht noch gefährlich aus
+UniBonn2 [-\]: b11 b12 
+kassel3 [?\]: ah ne 
+]
+;B[ak]BL[50.079]OB[7]C[UniBonn2 [-\]: a9 tesuji?
+kyrka [6k\]: oder bluff ;)
+kassel4 [-\]: bluff
+UniBonn4 [-\]: wieso
+kassel4 [-\]: b8 reicht?
+kassel3 [?\]: kein bluff
+UniBonn2 [-\]: sieht auf den ersten blick legit aus
+UniBonn4 [-\]: b braucht eine freiheit
+UniBonn2 [-\]: b8 b9 
+kassel4 [-\]: a10?
+UniBonn2 [-\]: b8 b9 a10 
+kassel3 [?\]: b11 a7
+kassel3 [?\]: aber w kann b7 abgeben wenn d14 geht
+]
+;W[bk]WL[55.908]OW[5]
+;B[bj]BL[46.904]OB[6]
+;W[bl]WL[52.444]OW[4]C[kassel3 [?\]: ko??
+kassel3 [?\]: oh
+]
+;B[df]BL[36.57]OB[5]C[UniBonn2 [-\]: doch nur bluff?
+]
+;W[bi]WL[42.192]OW[3]
+;B[gb]BL[27.183]OB[4]C[kassel3 [?\]: man man
+UniBonn2 [-\]: d18 
+]
+;W[hb]WL[33.04]OW[2]
+;B[hc]BL[23.407]OB[3]
+;W[ib]WL[27.776]OW[1]C[kassel3 [?\]: jetzt übertreibt er aber !
+]
+;B[cb]BL[11.239]OB[2]
+;W[db]WL[300]OW[15]C[kassel3 [?\]: also w
+]
+;B[cc]BL[9.121]OB[1]C[UniBonn2 [-\]: d18 war genug
+UniBonn2 [-\]: b war eh tot
+]
+;W[dc]WL[292.077]OW[14]
+;B[bd]BL[300]OB[15]C[kassel3 [?\]: ja dachte ich auch
+]
+;W[be]WL[290.408]OW[13]C[kassel3 [?\]: jetzt wirds haarig
+UniBonn2 [-\]: jetzt chance
+kassel3 [?\]: b18?
+kassel3 [?\]: ah
+kassel3 [?\]: sorry
+kassel3 [?\]: s is dran ^^
+UniBonn2 [-\]: sieht leider immer noch nicht gut für b aus
+UniBonn4 [-\]: immerhin siehts jetzt schlechter fr w aus :D
+kassel3 [?\]: naja im byoyomi ist alles möglich
+]
+;B[bb]BL[183.29]OB[14]
+;W[ae]WL[244.951]OW[12]
+;B[af]BL[177.414]OB[13]
+;W[ga]WL[236.696]OW[11]
+;B[ia]BL[160.073]OB[12]C[kassel3 [?\]: a17 reicht schon oder?
+UniBonn2 [-\]: ja
+]
+;W[ac]WL[206.45]OW[10]C[kassel3 [?\]: das is endgültig vorbei 
+]
+;B[bc]BL[60.922]OB[11]
+;W[ad]WL[194.893]OW[9]
+;B[ea]BL[58.662]OB[10]C[kassel3 [?\]: f19 und rum
+kassel3 [?\]: f19 d19 h19 
+kassel3 [?\]: da geht nix mehr für s
+]
+;W[fa]WL[122.33]OW[8]
+;B[ja]BL[46.516]OB[9]
+;W[ka]WL[116.36]OW[7]C[kassel3 [?\]: sau stark was der Victor hier abliefert!
+]
+;B[ic]BL[42.927]OB[8]
+;W[ab]WL[102.187]OW[6]
+;B[da]BL[33.272]OB[7]
+;W[ba]WL[94.504]OW[5]C[UniBonn2 [-\]: wow
+UniBonn1 [-\]: vielen Dank
+kassel1 [-\]: Danke
+kassel3 [?\]: Wahnsinn Victor!
+UniBonn2 [-\]: w hat ein 1k-rating
+kassel3 [?\]: Sau stark
+kassel3 [?\]: w spielt zu selten Turniere 
+UniBonn2 [-\]: ja
+UniBonn2 [-\]: anscheinend
+UniBonn4 [-\]: mach dir nichts draus christopher
+UniBonn1 [-\]: joa das war nicht schlecht, Glückwunsch!
+UniBonn1 [-\]: nee sorry, heute war ein anstrengender Tag
+kassel1 [-\]: Beimir auch haha
+])
